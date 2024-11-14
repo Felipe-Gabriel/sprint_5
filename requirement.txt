@@ -2,10 +2,8 @@ numpy==1.21.6
 pandas==1.3.1
 scipy==1.6.2
 streamlit==1.12.2
-<<<<<<< HEAD
-pip==24.3.1
-setuptools>=42
-=======
-numpy==1.21.6
 
->>>>>>> 12d4a22c99ac4dad9d99741478162f24c359f4c4
+
+
+
+
