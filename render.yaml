@@ -1,0 +1,5 @@
+services:
+  - type: web
+    env: python
+    buildCommand: "apt-get update && apt-get install -y build-essential gcc gfortran && pip install -r requirements.txt"
+    startCommand: "streamlit run app.py --server.port $PORT"
